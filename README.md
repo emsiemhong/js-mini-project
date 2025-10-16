@@ -35,18 +35,18 @@ You can run them using **Node.js** in your terminal.
 
 ## 🧠 Project List
 
-| #   | Project                                              | Description                              |
-| --- | ---------------------------------------------------- | ---------------------------------------- |
-| 1️⃣   | [hello-user.js](./hello-user.js)                     | Ask for user’s name and print a greeting |
-| 2️⃣   | [calculator.js](./calculator.js)                     | Simple calculator using conditionals     |
-| 3️⃣   | [odd-even.js](./odd-even.js)                         | Check if a number is odd or even         |
-| 4️⃣   | [multiplication-table.js](./multiplication-table.js) | Print a multiplication table             |
-| 5️⃣   | [array-analyzer.js](./array-analyzer.js)             | Find max, min, and average in an array   |
-| 6️⃣   | [string-reverser.js](./string-reverser.js)           | Reverse a string and check palindrome    |
-| 7️⃣   | [guess-game.js](./guess-game.js)                     | Random number guessing game              |
-| 8️⃣   | [todo-list.js](./todo-list.js)                       | Console-based Todo List app (CRUD)       |
-| 9️⃣   | [student-object.js](./student-object.js)             | Object example: Student info display     |
-| 🔟   | [banking-app.js](./banking-app.js)                   | Deposit and withdraw simulation          |
+| #   | Project                                                                                             | Description                              |
+| --- | ----------------------------------------------------------------------------------------------------| ---------------------------------------- |
+| 1️⃣   | [hello-user-app.js](./blob/main/hello-user-app.js)                                                 | Ask for user’s name and print a greeting |
+| 2️⃣   | [simple-calculator.js](./blob/main/simple-calculator.js)                                           | Simple calculator using conditionals     |
+| 3️⃣   | [odd-even-checker.js](./blob/main/odd-event-checker.js)                                            | Check if a number is odd or even         |
+| 4️⃣   | [multiplication-table-generator.js](./blob/main/multiplication-table-generator.js)                 | Print a multiplication table             |
+| 5️⃣   | [array-analyzer.js](./blob/main/array-analyzer.js)                                                 | Find max, min, and average in an array   |
+| 6️⃣   | [string-reverser-and-palindrome-checker.js](./blob/main/string-reverser-and-palindrome-checker.js) | Reverse a string and check palindrome    |
+| 7️⃣   | [random-number-guessing-game.js](./blob/main/random-number-guessing-game.js)                       | Random number guessing game              |
+| 8️⃣   | [todo-list-app.js](./blob/main/todo-list-app.js)                                                   | Console-based Todo List app (CRUD)       |
+| 9️⃣   | [student-object.js](./blob/main/student-object.js)                                                 | Object example: Student info display     |
+| 🔟   | [banking-app.js](./blob/main/banking-app.js)                                                       | Deposit and withdraw simulation          |
 
 ---
 
